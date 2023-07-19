@@ -14,7 +14,6 @@ body{
 	font-size: 20px;
 	color: #534C64;
 }
-p{}
 h1,h2,h3,h4,h5,h6{
 	color: #0B0223;
 }
@@ -145,9 +144,6 @@ img{
 }
 .banner-content button{
 	margin-right: 25px;
-}
-.banner-img{
-/*	width: 50%;*/
 }
 
 /* -=- games and video styles-=- 
@@ -311,29 +307,14 @@ img{
 	margin-bottom: 50px;
 	font-size: 18px;
 }
-.footer-menu li a{
-/*	margin-left: 60px;*/
-}
 .footer-icon{
 	margin-bottom: 60px;
 	font-size: 40px;
-}
-.footer-icon li a{
-/*	margin-left: 40px;*/
 }
 .footer-terms{
 	margin-bottom: 25px;
 	font-size: 16px;
 }
-.footer-terms li a{
-/*	margin-left: 60px;*/
-}
 .footer-copy{
 	font-style: 16px;
-}
-
-
-
-.hide{
-	display: none;
 }
